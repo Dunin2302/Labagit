@@ -46,3 +46,4 @@ Traceback (most recent call last):
     content = await file.read()
     ^^^^^^^
 IndentationError: expected an indented block after function definition on line 15
+INFO:     Stopping reloader process [23624]
